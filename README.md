@@ -1,6 +1,6 @@
 # Vet-et-al.-BOTJLS
 
-The zipped folders contains all input data and scripts to reproduce LEA and LFMM analyses (see 'LEA analysis.zip' and 'LFMM analysis.zip', respectively) as performed in Vetö, Postolache et al. - BOTJLS.
+The zipped folders contains all input data and scripts to run LEA and LFMM analyses (see 'LEA analysis.zip' and 'LFMM analysis.zip', respectively) as performed in Vetö, Postolache et al. - BOTJLS.
 
 **LEA analysis.zip**
 - *LEA.R*: R script for LEA analysis.
