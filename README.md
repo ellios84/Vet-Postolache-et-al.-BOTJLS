@@ -2,16 +2,16 @@
 
 The zipped folders contains all input data and scripts to reproduce LEA and LFMM analyses (see 'LEA analysis.zip' and 'LFMM analysis.zip', respectively) as performed in Vetö, Postolache et al. - BOTJLS.
 
-LEA analysis.zip
-- LEA.R: R script for LEA analysis.
-- LEA-Eugenia-LD-pruned-2021-Bonf0.01.html: report on LEA analysis with results included.
-- 2021_Eugenia_qced_ldpruned_372snp_80ind: input file for LEA.R script.
-- str.geno: inut file for sNMF analysis.
-- snps_list: SNP IDs inluded into analysis.
-- LEA_Eugenia_Pvalues 2021.txt: one-column data frame reporting p-values as derived by LEA analysis (one SNP per line).
-- LEA-outliers-bonf-alpha0.01.txt: data frame reporting outliers from LEA analysis after Bonferroni correction for multiple testing.
+**LEA analysis.zip**
+- *LEA.R*: R script for LEA analysis.
+- *LEA-Eugenia-LD-pruned-2021-Bonf0.01.html*: report on LEA analysis with results included.
+- *2021_Eugenia_qced_ldpruned_372snp_80ind*: input file for LEA.R script.
+- *str.geno*: inut file for sNMF analysis.
+- *snps_list*: SNP IDs inluded into analysis.
+- *LEA_Eugenia_Pvalues 2021.txt*: one-column data frame reporting p-values as derived by LEA analysis (one SNP per line).
+- *LEA-outliers-bonf-alpha0.01.txt*: data frame reporting outliers from LEA analysis after Bonferroni correction for multiple testing.
 
-**LFMM analysis.zip
+**LFMM analysis.zip**
 - *LFMM.R*: R script for LFMM analysis. 
 - *LFMM_Eugenia_LD-pruned-Bonf0.01.html*: report on LFMM analysis with results included.
 - *361SNPs_Structure_Eugenia.str*: input file for sNMF analysis as based on unlinked loci.
