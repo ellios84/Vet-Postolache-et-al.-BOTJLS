@@ -21,4 +21,4 @@ The zipped folders contains all input data and scripts to reproduce LEA and LFMM
 - *snps_list.csv*: IDs of the 372 SNPs undergoing LFMM analysis.
 - *lfmm-k3-outliers.txt* & *lfmm-k4-outliers*: outliers from LFMM analysis with correction for 3 and 4 latent factors, respectively.
 - *lfmm-outliers.txt*: LFMM results as defined by the shared outliers between the K=3 and K=4 runs.
-- *shared-outliers.txt*: shared outliers between LFMM analysis (lfmm-outliers.txt) and LEA analysis (LEA-outliers-bonf-alpha0.01.txt)
+- *shared-outliers.txt*: shared outliers between LFMM analysis (lfmm-outliers.txt) and LEA analysis (LEA-outliers-bonf-alpha0.01.txt).
