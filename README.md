@@ -20,6 +20,6 @@ The zipped folders contains all input data and scripts to run LEA and LFMM analy
 - *Coord_Eugenia_80Indiv_LDpruned.csv*: IDs, FIDs and geographical coordinates of the individuals undergoing LFMM analysis.
 - *synthetic_6_PCAVariables_ordered.csv*: population-based environmental characterization for LFMM analysis.
 - *snps_list.csv*: IDs of the 372 unlinked SNPs undergoing LFMM analysis.
-- *lfmm-k3-outliers.txt* & *lfmm-k4-outliers*: outliers from LFMM analysis after correcting for three (k3) and four (k4) latent factors, respectively.
-- *lfmm-outliers.txt*: LFMM results as defined by the shared outliers between the k3 and k4 runs.
+- *lfmm-k3-outliers.txt* & *lfmm-k4-outliers*: outliers from LFMM analysis after correcting for three (*k3*) and four (*k4*) latent factors, respectively.
+- *lfmm-outliers.txt*: LFMM results as defined by the shared outliers between the *k3* and *k4* runs.
 - *shared-outliers.txt*: shared outliers between LFMM analysis (lfmm-outliers.txt) and LEA analysis (LEA-outliers-bonf-alpha0.01.txt).
