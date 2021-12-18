@@ -15,11 +15,11 @@ The zipped folders contains all input data and scripts to run LEA and LFMM analy
 **LFMM analysis.zip**
 - *LFMM.R*: R script for LFMM analysis. 
 - *LFMM_Eugenia_LD-pruned-Bonf0.01.html*: report on LFMM analysis with results included.
-- *361SNPs_Structure_Eugenia.str*: input file for sNMF analysis as based on unlinked loci.
-- *361snps_list.csv*: IDs of unlinked SNPs.
+- *361SNPs_Structure_Eugenia.str*: input file for the sNMF analysis (set of unlinked loci with LEA outliers excluded).
+- *361snps_list.csv*: IDs of SNPs undergoing sNMF analysis.
 - *Coord_Eugenia_80Indiv_LDpruned.csv*: IDs, FIDs and geographical coordinates of the individuals undergoing LFMM analysis.
 - *synthetic_6_PCAVariables_ordered.csv*: population-based environmental characterization for LFMM analysis.
-- *snps_list.csv*: IDs of the 372 SNPs undergoing LFMM analysis.
-- *lfmm-k3-outliers.txt* & *lfmm-k4-outliers*: outliers from LFMM analysis with correction for 3 and 4 latent factors, respectively.
-- *lfmm-outliers.txt*: LFMM results as defined by the shared outliers between the K=3 and K=4 runs.
+- *snps_list.csv*: IDs of the 372 unlinked SNPs undergoing LFMM analysis.
+- *lfmm-k3-outliers.txt* & *lfmm-k4-outliers*: outliers from LFMM analysis after correcting for three (k3) and four (k4) latent factors, respectively.
+- *lfmm-outliers.txt*: LFMM results as defined by the shared outliers between the k3 and k4 runs.
 - *shared-outliers.txt*: shared outliers between LFMM analysis (lfmm-outliers.txt) and LEA analysis (LEA-outliers-bonf-alpha0.01.txt).
