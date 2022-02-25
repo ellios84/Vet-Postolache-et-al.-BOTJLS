@@ -16,7 +16,7 @@ The zipped folders contains all input data and scripts to run LEA and LFMM analy
 - *LFMM.R*: R script for LFMM analysis. 
 - *LFMM_Eugenia_LD-pruned-Bonf0.01.html*: report on LFMM analysis with results included.
 - *361SNPs_Structure_Eugenia.str*: input file for the sNMF analysis (set of unlinked loci with LEA outliers excluded).
-- *361snps_list.csv*: IDs of SNPs undergoing sNMF analysis.
+- *361snps_list.csv*: SNPs undergoing sNMF analysis.
 - *Coord_Eugenia_80Indiv_LDpruned.csv*: IDs, FIDs and geographical coordinates of the individuals undergoing LFMM analysis.
 - *synthetic_6_PCAVariables_ordered.csv*: population-based environmental characterization for LFMM analysis.
 - *snps_list.csv*: IDs of the 372 unlinked SNPs undergoing LFMM analysis.
