@@ -1,5 +1,5 @@
 # Vetö, Postolache et al.
-## Population structure and signals of local adaptation in Eugenia uniflora L. (Myrtaceae), a widely distributed species in the Atlantic Forest - Botanical Journal of the Linnean Society
+## Population structure and signals of local adaptation in *Eugenia uniflora* L. (Myrtaceae), a widely distributed species in the Atlantic Forest - Botanical Journal of the Linnean Society
 
 The zipped folders contains all input data and scripts to run LEA and LFMM analyses (see 'LEA analysis.zip' and 'LFMM analysis.zip', respectively) as performed in Vetö, Postolache et al. - BOTJLS.
 
