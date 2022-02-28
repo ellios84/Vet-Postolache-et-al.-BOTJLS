@@ -5,8 +5,14 @@
 
 The zipped folders contain all input data and scripts used to run quality control (QC), linkage disequilibrium (LD), LEA and LFMM analyses (see 'LD analysis.zip', 'LEA analysis.zip' and 'LFMM analysis.zip', respectively) in Vetö, Postolache et al. (2022).
 
-**LEA analysis.zip**
-- *LEA.R*:
+**LD analysis.zip**
+- *.*: .
+- *.*: .
+- *.*: .
+- *.*: .
+- *.*: .
+- *.*: .
+- *.*: .
 
 **LEA analysis.zip**
 - *LEA.R*: R script used to run LEA.
