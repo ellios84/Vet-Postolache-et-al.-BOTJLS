@@ -1,5 +1,5 @@
 ## Population structure and signals of local adaptation in *Eugenia uniflora* L. (Myrtaceae), a widely distributed species in the Atlantic Forest
-### Nicole Moreira Vetö*, Dragos Postolache*, Frank L. Guzman Escudero, Elia Vajana, Ricardo Burgo Braga, Fabiano Salgueiro, Rogério Margisi, Giovanni G. Vendramin, Andreia C. Turchetto-Zolet
+### Nicole Moreira Vetö**, Dragos Postolache**, Frank L. Guzman Escudero, Elia Vajana, Ricardo Burgo Braga, Fabiano Salgueiro, Rogério Margisi, Giovanni G. Vendramin, Andreia C. Turchetto-Zolet
 
 ** Equally contributing authors.
 
