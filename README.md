@@ -9,7 +9,7 @@ The folders **LD analysis.zip**, **LEA analysis.zip** and **LFMM analysis.zip** 
 - *analysis.R/genomics.R*: R scripts used to run QC and LD analysis. 
 - *Eugenia.bed/bim/fam/ped/map*: raw molecular file (85 individuals, 523 SNPs).
 - *Eugenia_qced.bed/bim/fam*: QC-ed molecular file (80 individuals, 395 SNPs).
-- *c1.txt/c2.txt/c3.txt*: individuals belonging to genetic cluster one (c1; 27 individuals), two (c2; 27 individuals) and three (c3; 26 individuals) as defined by discriminant analysis of principal components (DAPC).
+- *c1.txt/c2.txt/c3.txt*: individuals belonging to genetic cluster one (c1; 27 individuals), two (c2; 27 individuals) and three (c3; 26 individuals) as defined by discriminant analysis of principal components.
 - *Eugenia_qced_c1/c2/c3.bed/bim/fam*: molecular files corresponding to genetic cluster one, two and three; input for the within-group LD analyses.
 - *ldrm_c1/c2/c3_alpha0.01.txt*: SNPs showing statistical evidence of LD in genetic cluster one, two and three (59, 202 and 181 SNPs, respectively; *p*-value<0.01 after Bonferroni correction).
 - *ldrm_shared_0.01.txt*: SNPs showing statistical evidence of LD in all genetic clusters (18 SNPs shared).
