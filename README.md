@@ -1,7 +1,7 @@
 ## Population structure and signals of local adaptation in *Eugenia uniflora* L. (Myrtaceae), a widely distributed species in the Atlantic Forest
-### Nicole Moreira Vetö,* Dragos Postolache*, Frank L. Guzman Escudero, Elia Vajana, Ricardo Burgo Braga, Fabiano Salgueiro, Rogério Margisi, Giovanni G. Vendramin, Andreia C. Turchetto-Zolet
+### Nicole Moreira Vetö*, Dragos Postolache*, Frank L. Guzman Escudero, Elia Vajana, Ricardo Burgo Braga, Fabiano Salgueiro, Rogério Margisi, Giovanni G. Vendramin, Andreia C. Turchetto-Zolet
 
-* Equally contributing authors.
+** Equally contributing authors.
 
 The folders **LD analysis.zip**, **LEA analysis.zip** and **LFMM analysis.zip** contain all input data and scripts used to run quality control (QC), linkage disequilibrium (LD), LEA and LFMM analyses in Vetö, Postolache et al. (2022).
 
